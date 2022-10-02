@@ -7,7 +7,7 @@ echo > /opt/sshplus/sshplus
 
 Baixar o WebSocket e Licença =
 
-cd /etc/SSHPlus/ && wget https://www.dropbox.com/s/muh8otpcjb9qa6d/WebSocket && wget https://www.dropbox.com/s/zv01bftfjj58wt8/pub.key && wget https://www.dropbox.com/s/pj5s9x23boj840q/priv.pem && chmod 777 WebSocket && cd $HOME
+cd /etc/SSHPlus/ && wget https://github.com/WispSSH/Script-WebSocket-Tls-SSHPLUS-WSS-/raw/main/WebSocket && wget https://github.com/WispSSH/Script-WebSocket-Tls-SSHPLUS-WSS-/raw/main/pub.key && wget https://github.com/WispSSH/Script-WebSocket-Tls-SSHPLUS-WSS-/raw/main/priv.pem && chmod 777 WebSocket && cd $HOME
 
 Modo de Usar:
 
